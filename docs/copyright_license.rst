@@ -6,7 +6,7 @@
 Copyrights and License
 **********************
 
-© 2020-|current_year| Real-Time Innovations, Inc. |br|
+© 2020-2026| Real-Time Innovations, Inc. |br|
 All rights reserved.  |br|
 Printed in U.S.A. First printing.  |br|
 |today|. |br|
